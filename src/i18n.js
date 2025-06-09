@@ -16,7 +16,7 @@ i18n
     },
 
     backend: {
-      loadPath: "/locales/{{lng}}/translation.json", // ruta donde están los json en public
+      loadPath: "./locales/{{lng}}/translation.json", // ruta donde están los json en public
     },
   });
 
