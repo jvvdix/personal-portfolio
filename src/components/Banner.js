@@ -78,7 +78,6 @@ export const Banner = () => {
                   </h1>
                   <p>{t("banner.description")}</p>
 
-                  <p>{t("banner.description2")}</p>
                   <Router>
                     <HashLink to="#connect">
                       <button onClick={() => console.log("connect")}>
