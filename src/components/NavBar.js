@@ -40,12 +40,15 @@ export const NavBar = () => {
     <Router>
       <Navbar expand="md" className={scrolled ? "scrolled" : ""}>
         <Container>
-          <Navbar.Brand href="/">
-            <img src={logo} alt="Logo" />
+          {/* CAMBIADO: Logo con HashLink hacia #home */}
+          <Navbar.Brand as={HashLink} smooth to="#home">
+            <img src={logo} alt="Logo" style={{ cursor: "pointer" }} />
           </Navbar.Brand>
+
           <Navbar.Toggle aria-controls="basic-navbar-nav">
             <span className="navbar-toggler-icon"></span>
           </Navbar.Toggle>
+
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="ms-auto">
               <Nav.Link
@@ -78,15 +81,21 @@ export const NavBar = () => {
                 {t("navbar.projects")}
               </Nav.Link> */}
             </Nav>
+
             <span className="navbar-text">
               <div className="social-icon">
                 <a
                   href="https://www.linkedin.com/in/judith-molina-sánchez"
                   target="_blank"
+                  rel="noopener noreferrer"
                 >
                   <img src={navIcon1} alt="Social icon 1" />
                 </a>
-                <a href="https://github.com/jvvdix" target="_blank">
+                <a
+                  href="https://github.com/jvvdix"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
                   <img src={navIcon2} alt="Social icon 2" />
                 </a>
                 {/* icono que cambia idioma*/}
@@ -98,7 +107,8 @@ export const NavBar = () => {
                   <img src={navIcon3} alt="Change language" />
                 </a>
               </div>
-              <HashLink to="#connect">
+
+              <HashLink to="#connect" smooth>
                 <button className="vvd">
                   <span>{t("navbar.connect")}</span>
                 </button>
