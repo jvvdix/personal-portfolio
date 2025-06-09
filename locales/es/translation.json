@@ -1,0 +1,95 @@
+{
+  "navbar": {
+    "home": "Inicio",
+    "skills": "Skills",
+    "projects": "Proyectos",
+    "connect": "Contacto",
+    "changeLanguage": "Cambiar idioma"
+  },
+  "banner": {
+    "tagline": "Te doy la bienvenida a mi portfolio",
+    "greeting": "¡Hola! Soy Judith",
+    "rotatingTexts": [
+      "Desarrolladora Web",
+      "Diseñadora Web",
+      "Entusiasta del diseño UI/UX"
+    ],
+    "description": "Soy una desarrolladora frontend con ganas de transformar ideas en experiencias web interactivas y llenas de vida. Estoy dando mis primeros pasos en el mundo profesional, pero ya me enfoco en escribir código limpio, accesible y adaptable, con el objetivo de crear interfaces que realmente conecten con las personas.",
+    "description2": " Mi meta es ser parte de proyectos que hagan de la web un lugar más rápido, intuitivo y emocionante. ¿Qué tal si transformamos una idea en algo increíble juntos? :)",
+    "connectButton": "Contáctame"
+  },
+  "skills": {
+    "title": "Habilidades",
+    "description": "Estas son las herramientas que uso día a día. ¡Echa un vistazo!",
+    "items": [
+      "HTML5 y CSS3",
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Angular",
+      "RxJS",
+      "SCSS / Sass",
+      "Tailwind CSS",
+      "Diseño Responsivo",
+      "APIs REST",
+      "Git y GitHub",
+      "Figma (Diseño UI/UX)",
+      "Bootstrap"
+    ]
+  },
+  "projects": {
+    "title": "Proyectos",
+    "description": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto estándar desde el año 1500, cuando un impresor desconocido tomó una galera de tipos y la mezcló para hacer un libro de muestras.",
+    "tabs": {
+      "first": "Pestaña 1",
+      "second": "Pestaña 2",
+      "third": "Pestaña 3"
+    },
+    "tabContent": {
+      "second": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque quam, quod neque provident velit, rem explicabo excepturi id illo molestiae blanditiis, eligendi dicta officiis asperiores delectus quasi inventore debitis quo.",
+      "third": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque quam, quod neque provident velit, rem explicabo excepturi id illo molestiae blanditiis, eligendi dicta officiis asperiores delectus quasi inventore debitis quo."
+    },
+    "projectsList": [
+      {
+        "title": "Inicio de Negocios",
+        "description": "Diseño y Desarrollo"
+      },
+      {
+        "title": "Inicio de Negocios",
+        "description": "Diseño y Desarrollo"
+      },
+      {
+        "title": "Inicio de Negocios",
+        "description": "Diseño y Desarrollo"
+      },
+      {
+        "title": "Inicio de Negocios",
+        "description": "Diseño y Desarrollo"
+      },
+      {
+        "title": "Inicio de Negocios",
+        "description": "Diseño y Desarrollo"
+      },
+      {
+        "title": "Inicio de Negocios",
+        "description": "Diseño y Desarrollo"
+      }
+    ]
+  },
+  "contact": {
+    "title": "Ponte en Contacto",
+    "firstName": "Nombre",
+    "lastName": "Apellido",
+    "email": "Correo Electrónico",
+    "phone": "Teléfono",
+    "message": "Mensaje",
+    "send": "Enviar",
+    "sending": "Enviando...",
+    "successMessage": "Mensaje enviado con éxito",
+    "errorMessage": "Algo salió mal, por favor intenta más tarde.",
+    "altImg": "Contáctanos"
+  },
+  "footer": {
+    "copyright": "Derechos reservados 2025."
+  }
+}
