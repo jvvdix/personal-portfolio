@@ -1,0 +1,87 @@
+{
+  "navbar": {
+    "home": "Home",
+    "skills": "Skills",
+    "projects": "Projects",
+    "connect": "Let’s Connect",
+    "changeLanguage": "Change language"
+  },
+  "banner": {
+    "tagline": "Welcome to my Portfolio",
+    "greeting": "Hi! I'm Judith",
+    "rotatingTexts": [
+      "Web Developer",
+      "Web Designer",
+      "UI/UX Design Enthusiast"
+    ],
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+    "connectButton": "Let’s Connect"
+  },
+
+  "skills": {
+    "title": "Skills",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.",
+    "items": [
+      "Web Development",
+      "Brand Identity",
+      "Logo Design",
+      "Web Development"
+    ]
+  },
+  "projects": {
+    "title": "Projects",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+    "tabs": {
+      "first": "Tab 1",
+      "second": "Tab 2",
+      "third": "Tab 3"
+    },
+    "tabContent": {
+      "second": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque quam, quod neque provident velit, rem explicabo excepturi id illo molestiae blanditiis, eligendi dicta officiis asperiores delectus quasi inventore debitis quo.",
+      "third": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque quam, quod neque provident velit, rem explicabo excepturi id illo molestiae blanditiis, eligendi dicta officiis asperiores delectus quasi inventore debitis quo."
+    },
+    "projectsList": [
+      {
+        "title": "Business Startup",
+        "description": "Design & Development"
+      },
+      {
+        "title": "Business Startup",
+        "description": "Design & Development"
+      },
+      {
+        "title": "Business Startup",
+        "description": "Design & Development"
+      },
+      {
+        "title": "Business Startup",
+        "description": "Design & Development"
+      },
+      {
+        "title": "Business Startup",
+        "description": "Design & Development"
+      },
+      {
+        "title": "Business Startup",
+        "description": "Design & Development"
+      }
+    ]
+  },
+  "contact": {
+    "title": "Get In Touch",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "email": "Email Address",
+    "phone": "Phone No.",
+    "message": "Message",
+    "send": "Send",
+    "sending": "Sending...",
+    "successMessage": "Message sent successfully",
+    "errorMessage": "Something went wrong, please try again later.",
+    "altImg": "Contact Us"
+  },
+
+  "footer": {
+    "copyright": "Copyright 2025. All Rights Reserved."
+  }
+}

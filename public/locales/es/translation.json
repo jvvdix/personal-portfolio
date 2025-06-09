@@ -1,0 +1,85 @@
+{
+  "navbar": {
+    "home": "Inicio",
+    "skills": "Skills",
+    "projects": "Proyectos",
+    "connect": "Contacto",
+    "changeLanguage": "Cambiar idioma"
+  },
+  "banner": {
+    "tagline": "Te doy la bienvenida a mi portfolio",
+    "greeting": "¡Hola! Soy Judith",
+    "rotatingTexts": [
+      "Desarrolladora Web",
+      "Diseñadora Web",
+      "Entusiaste del diseño UI/UX"
+    ],
+    "description": "Lorem Ipsum es simplemente el texto de relleno de la industria de la impresión y la composición tipográfica. Lorem Ipsum ha sido el texto de relleno estándar desde los años 1500, cuando un impresor desconocido tomó una galera y la mezcló para hacer un libro de muestras.",
+    "connectButton": "Contáctame"
+  },
+  "skills": {
+    "title": "Habilidades",
+    "description": "Lorem Ipsum es simplemente el texto de relleno de la industria de la impresión y la composición tipográfica. Lorem Ipsum ha sido el texto de relleno estándar de la industria.",
+    "items": [
+      "Desarrollo Web",
+      "Identidad de Marca",
+      "Diseño de Logos",
+      "Desarrollo Web"
+    ]
+  },
+  "projects": {
+    "title": "Proyectos",
+    "description": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto estándar desde el año 1500, cuando un impresor desconocido tomó una galera de tipos y la mezcló para hacer un libro de muestras.",
+    "tabs": {
+      "first": "Pestaña 1",
+      "second": "Pestaña 2",
+      "third": "Pestaña 3"
+    },
+    "tabContent": {
+      "second": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque quam, quod neque provident velit, rem explicabo excepturi id illo molestiae blanditiis, eligendi dicta officiis asperiores delectus quasi inventore debitis quo.",
+      "third": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque quam, quod neque provident velit, rem explicabo excepturi id illo molestiae blanditiis, eligendi dicta officiis asperiores delectus quasi inventore debitis quo."
+    },
+    "projectsList": [
+      {
+        "title": "Inicio de Negocios",
+        "description": "Diseño y Desarrollo"
+      },
+      {
+        "title": "Inicio de Negocios",
+        "description": "Diseño y Desarrollo"
+      },
+      {
+        "title": "Inicio de Negocios",
+        "description": "Diseño y Desarrollo"
+      },
+      {
+        "title": "Inicio de Negocios",
+        "description": "Diseño y Desarrollo"
+      },
+      {
+        "title": "Inicio de Negocios",
+        "description": "Diseño y Desarrollo"
+      },
+      {
+        "title": "Inicio de Negocios",
+        "description": "Diseño y Desarrollo"
+      }
+    ]
+  },
+  "contact": {
+    "title": "Ponte en Contacto",
+    "firstName": "Nombre",
+    "lastName": "Apellido",
+    "email": "Correo Electrónico",
+    "phone": "Teléfono",
+    "message": "Mensaje",
+    "send": "Enviar",
+    "sending": "Enviando...",
+    "successMessage": "Mensaje enviado con éxito",
+    "errorMessage": "Algo salió mal, por favor intenta más tarde.",
+    "altImg": "Contáctanos"
+  },
+  "footer": {
+    "copyright": "Derechos reservados 2025."
+  }
+}
