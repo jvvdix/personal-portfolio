@@ -14,19 +14,29 @@
       "Web Designer",
       "UI/UX Design Enthusiast"
     ],
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+    "description": "I'm a frontend developer driven to turn ideas into vibrant and interactive web experiences. I'm just starting my professional journey, but I’m already focused on writing clean, accessible, and adaptable code with the goal of building interfaces that truly connect with people.",
+    "description2": " My goal is to be part of projects that make the web a faster, more intuitive, and exciting place. How about we turn an idea into something amazing together? :)",
     "connectButton": "Let’s Connect"
   },
 
   "skills": {
     "title": "Skills",
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.",
-    "items": [
-      "Web Development",
-      "Brand Identity",
-      "Logo Design",
-      "Web Development"
-    ]
+    "description": "These are the tools I use on a daily basis. Take a look!",
+    "items": {
+      "HTML5 & CSS3": "HTML5 & CSS3",
+      "JavaScript": "JavaScript",
+      "TypeScript": "TypeScript",
+      "React": "React",
+      "Angular": "Angular",
+      "RxJS": "RxJS",
+      "SCSS / Sass": "SCSS / Sass",
+      "Tailwind CSS": "Tailwind CSS",
+      "Responsive Design": "Responsive Design",
+      "REST APIs": "REST APIs",
+      "Git & GitHub": "Git & GitHub",
+      "Figma (UI/UX Design)": "Figma (UI/UX Design)",
+      "Bootstrap": "Bootstrap"
+    }
   },
   "projects": {
     "title": "Projects",

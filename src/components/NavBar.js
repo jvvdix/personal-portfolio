@@ -66,7 +66,7 @@ export const NavBar = () => {
               >
                 {t("navbar.skills")}
               </Nav.Link>
-              <Nav.Link
+              {/* <Nav.Link
                 href="#projects"
                 className={
                   activeLink === "projects"
@@ -76,14 +76,17 @@ export const NavBar = () => {
                 onClick={() => onUpdateActiveLink("projects")}
               >
                 {t("navbar.projects")}
-              </Nav.Link>
+              </Nav.Link> */}
             </Nav>
             <span className="navbar-text">
               <div className="social-icon">
-                <a href="#">
+                <a
+                  href="https://www.linkedin.com/in/judith-molina-sánchez"
+                  target="_blank"
+                >
                   <img src={navIcon1} alt="Social icon 1" />
                 </a>
-                <a href="#">
+                <a href="https://github.com/jvvdix" target="_blank">
                   <img src={navIcon2} alt="Social icon 2" />
                 </a>
                 {/* icono que cambia idioma*/}

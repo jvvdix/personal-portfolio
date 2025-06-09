@@ -12,19 +12,29 @@
     "rotatingTexts": [
       "Desarrolladora Web",
       "Diseñadora Web",
-      "Entusiaste del diseño UI/UX"
+      "Entusiasta del diseño UI/UX"
     ],
-    "description": "Lorem Ipsum es simplemente el texto de relleno de la industria de la impresión y la composición tipográfica. Lorem Ipsum ha sido el texto de relleno estándar desde los años 1500, cuando un impresor desconocido tomó una galera y la mezcló para hacer un libro de muestras.",
+    "description": "Soy una desarrolladora frontend con ganas de transformar ideas en experiencias web interactivas y llenas de vida. Estoy dando mis primeros pasos en el mundo profesional, pero ya me enfoco en escribir código limpio, accesible y adaptable, con el objetivo de crear interfaces que realmente conecten con las personas.",
+    "description2": " Mi meta es ser parte de proyectos que hagan de la web un lugar más rápido, intuitivo y emocionante. ¿Qué tal si transformamos una idea en algo increíble juntos? :)",
     "connectButton": "Contáctame"
   },
   "skills": {
     "title": "Habilidades",
-    "description": "Lorem Ipsum es simplemente el texto de relleno de la industria de la impresión y la composición tipográfica. Lorem Ipsum ha sido el texto de relleno estándar de la industria.",
+    "description": "Estas son las herramientas que uso día a día. ¡Echa un vistazo!",
     "items": [
-      "Desarrollo Web",
-      "Identidad de Marca",
-      "Diseño de Logos",
-      "Desarrollo Web"
+      "HTML5 y CSS3",
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Angular",
+      "RxJS",
+      "SCSS / Sass",
+      "Tailwind CSS",
+      "Diseño Responsivo",
+      "APIs REST",
+      "Git y GitHub",
+      "Figma (Diseño UI/UX)",
+      "Bootstrap"
     ]
   },
   "projects": {

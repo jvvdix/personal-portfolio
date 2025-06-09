@@ -22,11 +22,14 @@ export const Footer = () => {
             className="d-flex flex-column align-items-center align-items-sm-end"
           >
             <div className="social-icon mb-2">
-              <a href="#">
-                <img src={navIcon1} alt="Icon" />
+              <a
+                href="https://www.linkedin.com/in/judith-molina-sánchez"
+                target="_blank"
+              >
+                <img src={navIcon1} alt="Social icon 1" />
               </a>
-              <a href="#">
-                <img src={navIcon2} alt="Icon" />
+              <a href="https://github.com/jvvdix" target="_blank">
+                <img src={navIcon2} alt="Social icon 2" />
               </a>
               <a href="#">
                 <img src={navIcon3} alt="Icon" />

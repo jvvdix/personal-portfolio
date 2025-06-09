@@ -2,7 +2,8 @@ import { useState, useEffect } from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import headerImg from "../assets/img/judith3.png";
 import { BsArrowRightCircle } from "react-icons/bs";
-
+import { HashLink } from "react-router-hash-link";
+import { BrowserRouter as Router } from "react-router-dom";
 import "animate.css";
 import TrackVisibility from "react-on-screen";
 import { useTranslation } from "react-i18next";
@@ -76,9 +77,16 @@ export const Banner = () => {
                     </span>
                   </h1>
                   <p>{t("banner.description")}</p>
-                  <button onClick={() => console.log("connect")}>
-                    {t("banner.connectButton")} <BsArrowRightCircle size={25} />
-                  </button>
+
+                  <p>{t("banner.description2")}</p>
+                  <Router>
+                    <HashLink to="#connect">
+                      <button onClick={() => console.log("connect")}>
+                        {t("banner.connectButton")}{" "}
+                        <BsArrowRightCircle size={25} />
+                      </button>
+                    </HashLink>
+                  </Router>
                 </div>
               )}
             </TrackVisibility>
